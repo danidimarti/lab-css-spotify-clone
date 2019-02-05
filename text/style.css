@@ -1,0 +1,57 @@
+.kanye-box {
+    margin: 0 30px;
+    background-color: #00B172;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+}
+
+.kanye-h3 {
+    font-size: 2em;
+    display: block;
+    color: white;
+    background-color: #00B172;
+    background-size: cover;
+    margin: 0 30px;
+    padding: 40px 40px 0px 40px;
+ 
+}
+
+.kanye-h3 h3 {
+    margin: 0px;
+}
+
+.kanye-ul {
+    margin: 0px;
+    padding: 0px 50px;
+    color: white;
+    height: 400px;
+}
+
+.kanye-ul li {
+    list-style: none;
+    padding-top: 0px;
+}
+
+.kanye-ul h4 {
+    font-size: 2em;
+    
+}
+
+.kanye-ul p {
+    font-size: 1.5em;
+    
+}
+
+.app {
+    width: 30%;
+    height: 30%;
+    margin: 0px;
+    padding: 0px 50px 50px;
+}
+
+.logo-white {
+    width: 10%;
+    height: 10%;
+   
+}
